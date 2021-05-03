@@ -1,0 +1,88 @@
+
+.first {
+    color: red;
+    font-size: 30px;
+    
+}
+body  {
+    background-image: url('BP_HYLT_POSTER.jpg');
+    background-size: 1535px 863.437499998px;
+}
+.diva{
+    /* border: 1px solid red;   */
+    margin-top: 276px;
+    margin-left: 391px;
+    height: 185px;
+}
+.diva .resize{
+    width: 180px;
+    height: 180px;
+}
+.tabimg{
+    margin-left: 399px;
+    transform: scale(0,0.74018566775);
+}
+.container{
+    margin-left: 500px;
+    width: 516px;
+    background-color: transparent;
+    
+}
+.container .resize{
+    width: 80px;
+    height: 80px;
+}
+.rs{
+    width: 516px;
+    height: 102px;
+}
+.text{
+    font-size: 28px ;
+    text-align: center;
+    height: 50px;
+    color:#e9abbc ;
+    background-color: black;
+}
+.timeset{
+    
+    margin-top: 80px; 
+    text-align: center;
+    font-family: "Lucida Console";
+}
+
+.disable-select {
+    user-select: none; /* supported by Chrome and Opera */
+   -webkit-user-select: none; /* Safari */
+   -khtml-user-select: none; /* Konqueror HTML */
+   -moz-user-select: none; /* Firefox */
+   -ms-user-select: none; /* Internet Explorer/Edge */
+}
+#link_bar a:link {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+#link_bar  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;  
+  }
+#link_bar a:hover {
+    color: rgb(255, 106, 130);
+    background-color: transparent;
+    text-decoration: none;
+  }
+#link_bar a:active {
+    color: rgb(245, 245, 245);
+    background-color: transparent;
+    text-decoration: none;
+  }
+.tabimg  a:visited {
+    border: chartreuse solid 1px;
+  }
+.tabimg a:hover {
+    border: chartreuse solid 1px;
+  }
+.tabimg a:active {
+    border: chartreuse solid 1px;
+  }
